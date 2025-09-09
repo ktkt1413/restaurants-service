@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: restaurants-service
+
+  profiles:
+    active: dev
